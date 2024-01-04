@@ -1,9 +1,9 @@
 <h1>Training Participants Visualization with Power BI</h1>
 This repository showcases a Power BI project focusing on visualizing training participant details. Throughout this project, I've honed my skills in data import, Power Query, diverse visualization methods, data filtering, and the implementation of bookmarks for streamlined navigation.
 
-<img src="C:\Users\Asus\Downloads\Training_participants_report_page-0001.jpg" width="50%" height="50%">
 
-<br>
+<br>![Training_participants_report_page-0001](https://github.com/athiyaman-m/Training_Participants_Report/assets/116479721/19a489cb-09b6-4e41-9899-4921db4b13ae)
+
 <br>
 📊Explore the Report: https://app.powerbi.com/reportEmbed?reportId=8d9c0034-e30c-4c79-810c-04fb7878ec22&autoAuth=true&ctid=53bea389-8d25-4bd5-b5d3-87ccb06c1bcd
 <br>
